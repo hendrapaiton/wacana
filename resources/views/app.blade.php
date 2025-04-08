@@ -12,7 +12,7 @@
 
 <body>
     <div id="app">
-        <Landing />
+        <App />
     </div>
 </body>
 
