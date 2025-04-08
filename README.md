@@ -10,6 +10,10 @@ This project serves as a modern fullstack template combining Laravel and Vue.js,
 -   Vue 3 with Composition API
 -   RESTful API
 -   SPA (Single Page Application)
+-   Authentication using Laravel Sanctum
+-   API token authentication
+-   Secure API endpoints
+-   Cross-Origin Resource Sharing (CORS) support
 
 ## License
 
