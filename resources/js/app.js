@@ -1,7 +1,8 @@
+import "@fontsource/lato";
 import { createApp } from "vue";
 import App from "@/App.vue";
-import "@fontsource/lato";
+import router from "@/router";
 
-const app = createApp({});
-app.component("App", App);
+const app = createApp(App);
+app.use(router);
 app.mount("#app");
