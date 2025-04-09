@@ -1,9 +1,7 @@
 <template>
     <div class="bg-gray-100">
-
         <div class="flex min-h-screen">
-            <!-- Left Column -->
-            <div class="w-full md:w-1/2 bg-blue-600 flex items-center justify-center p-8 relative hidden md:flex">
+            <div class="w-full md:w-1/2 bg-blue-600 items-center justify-center p-8 relative hidden md:flex">
                 <div class="absolute inset-0">
                     <img alt="A scenic mountain landscape with a clear blue sky"
                         class="w-full h-full object-cover opacity-50" height="800"
@@ -19,7 +17,6 @@
                     </p>
                 </div>
             </div>
-            <!-- Right Column -->
             <div class="w-full md:w-1/2 flex items-center justify-center p-8">
                 <div class="w-full max-w-md">
                     <h2 class="text-3xl font-bold text-center mb-6">
