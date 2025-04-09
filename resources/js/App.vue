@@ -1,8 +1,10 @@
-<script setup lang="ts">
+<script setup>
 import Login from '@/Pages/Login.vue';
+import Landing from '@/Pages/Landing.vue';
 
 </script>
 
 <template>
-    <Login />
+    <Landing />
+    <!-- <Login /> -->
 </template>
